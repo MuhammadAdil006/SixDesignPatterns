@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\bin\Debug\net6.0\FlyWeight_DP.exe
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\bin\Debug\net6.0\FlyWeight_DP.deps.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\bin\Debug\net6.0\FlyWeight_DP.runtimeconfig.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\bin\Debug\net6.0\FlyWeight_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\bin\Debug\net6.0\FlyWeight_DP.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\refint\FlyWeight_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\FlyWeight_DP.genruntimeconfig.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\FlyWeight_DP\FlyWeight_DP\obj\Debug\net6.0\ref\FlyWeight_DP.dll

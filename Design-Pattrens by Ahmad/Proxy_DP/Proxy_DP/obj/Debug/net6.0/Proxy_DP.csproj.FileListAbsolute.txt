@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\bin\Debug\net6.0\Proxy_DP.exe
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\bin\Debug\net6.0\Proxy_DP.deps.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\bin\Debug\net6.0\Proxy_DP.runtimeconfig.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\bin\Debug\net6.0\Proxy_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\bin\Debug\net6.0\Proxy_DP.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\refint\Proxy_DP.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\Proxy_DP.genruntimeconfig.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Proxy_DP\Proxy_DP\obj\Debug\net6.0\ref\Proxy_DP.dll

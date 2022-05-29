@@ -1,0 +1,16 @@
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\TEMPLATE.exe
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\TEMPLATE.deps.json
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\TEMPLATE.runtimeconfig.json
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\TEMPLATE.dll
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\ref\TEMPLATE.dll
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\bin\Debug\net6.0\TEMPLATE.pdb
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.GlobalUsings.g.cs
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.csproj.AssemblyReference.cache
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.AssemblyInfoInputs.cache
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.AssemblyInfo.cs
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.csproj.CoreCompileInputs.cache
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.dll
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\ref\TEMPLATE.dll
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.pdb
+C:\Users\grengo\source\repos\TEMPLATE\TEMPLATE\obj\Debug\net6.0\TEMPLATE.genruntimeconfig.cache
