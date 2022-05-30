@@ -1,0 +1,16 @@
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.AssemblyReference.cache
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfoInputs.cache
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfo.cs
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.exe
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.deps.json
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.json
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.dev.json
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.dll
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ref\ConsoleApp22.dll
+C:\Users\BoomBakar\source\repos\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.pdb
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.dll
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ref\ConsoleApp22.dll
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.pdb
+C:\Users\BoomBakar\source\repos\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.genruntimeconfig.cache

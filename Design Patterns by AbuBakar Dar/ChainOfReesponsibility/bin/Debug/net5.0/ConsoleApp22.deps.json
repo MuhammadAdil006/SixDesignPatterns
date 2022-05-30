@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0",
+    "name": ".NETCoreApp,Version=v5.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {
-      "Facade/1.0.0": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp22/1.0.0": {
         "runtime": {
-          "Facade.dll": {}
+          "ConsoleApp22.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Facade/1.0.0": {
+    "ConsoleApp22/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
